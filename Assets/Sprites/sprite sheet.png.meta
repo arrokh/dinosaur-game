@@ -1,58 +1,141 @@
 fileFormatVersion: 2
 guid: dc29fcfc7c6c443f99f3522080c85336
-timeCreated: 1482616519
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: restart
-    21300002: cloud
-    21300004: bird__flap_down
-    21300006: bird__flap_up
-    21300008: dinosaur
-    21300010: dinosaur__eyes_closed
-    21300012: dinosaur__step_left
-    21300014: dinosaur__step_right
-    21300016: dinosaur__eyes_wide
-    21300018: dinosaur__ducking_step_right
-    21300020: dinosaur__ducking_step_left
-    21300022: cactus__big
-    21300024: cactus__big_two
-    21300026: cactus__big_four
-    21300028: cactus__small
-    21300030: cactus__small_two
-    21300032: cactus__small_three
-    21300034: terrain
-    21300036: moon__5
-    21300038: moon__4
-    21300040: moon__2
-    21300042: sprite sheet_5
-    21300044: moon__1
-    21300046: moon__3
-    21300048: moon__6
-    21300050: moon__7
-    21300052: star__2
-    21300054: star__3
-    21300056: star__1
-    21300058: HI
-    21300060: Game Over
-    21300062: number__0
-    21300064: number__1
-    21300066: number__2
-    21300068: number__3
-    21300070: number__4
-    21300072: number__5
-    21300074: number__6
-    21300076: number__7
-    21300078: number__8
-    21300080: number__9
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: restart
+  - first:
+      213: 21300002
+    second: cloud
+  - first:
+      213: 21300004
+    second: bird__flap_down
+  - first:
+      213: 21300006
+    second: bird__flap_up
+  - first:
+      213: 21300008
+    second: dinosaur
+  - first:
+      213: 21300010
+    second: dinosaur__eyes_closed
+  - first:
+      213: 21300012
+    second: dinosaur__step_left
+  - first:
+      213: 21300014
+    second: dinosaur__step_right
+  - first:
+      213: 21300016
+    second: dinosaur__eyes_wide
+  - first:
+      213: 21300018
+    second: dinosaur__ducking_step_right
+  - first:
+      213: 21300020
+    second: dinosaur__ducking_step_left
+  - first:
+      213: 21300022
+    second: cactus__big
+  - first:
+      213: 21300024
+    second: cactus__big_two
+  - first:
+      213: 21300026
+    second: cactus__big_four
+  - first:
+      213: 21300028
+    second: cactus__small
+  - first:
+      213: 21300030
+    second: cactus__small_two
+  - first:
+      213: 21300032
+    second: cactus__small_three
+  - first:
+      213: 21300034
+    second: terrain
+  - first:
+      213: 21300036
+    second: moon__5
+  - first:
+      213: 21300038
+    second: moon__4
+  - first:
+      213: 21300040
+    second: moon__2
+  - first:
+      213: 21300042
+    second: sprite sheet_5
+  - first:
+      213: 21300044
+    second: moon__1
+  - first:
+      213: 21300046
+    second: moon__3
+  - first:
+      213: 21300048
+    second: moon__6
+  - first:
+      213: 21300050
+    second: moon__7
+  - first:
+      213: 21300052
+    second: star__2
+  - first:
+      213: 21300054
+    second: star__3
+  - first:
+      213: 21300056
+    second: star__1
+  - first:
+      213: 21300058
+    second: HI
+  - first:
+      213: 21300060
+    second: Game Over
+  - first:
+      213: 21300062
+    second: number__0
+  - first:
+      213: 21300064
+    second: number__1
+  - first:
+      213: 21300066
+    second: number__2
+  - first:
+      213: 21300068
+    second: number__3
+  - first:
+      213: 21300070
+    second: number__4
+  - first:
+      213: 21300072
+    second: number__5
+  - first:
+      213: 21300074
+    second: number__6
+  - first:
+      213: 21300076
+    second: number__7
+  - first:
+      213: 21300078
+    second: number__8
+  - first:
+      213: 21300080
+    second: number__9
+  externalObjects: {}
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -61,35 +144,61 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 7
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 2048
   textureSettings:
-    filterMode: -1
+    serializedVersion: 2
+    filterMode: 1
     aniso: 16
-    mipBias: -1
-    wrapMode: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
-  allowsAlphaSplitting: 0
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 46
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -105,7 +214,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: cloud
       rect:
@@ -118,7 +235,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: bird__flap_down
       rect:
@@ -131,7 +256,15 @@ TextureImporter:
       pivot: {x: 0.04424981, y: 0.66767967}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: bird__flap_up
       rect:
@@ -144,7 +277,15 @@ TextureImporter:
       pivot: {x: 0.04424981, y: 0.41369984}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: dinosaur
       rect:
@@ -157,7 +298,15 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: dinosaur__eyes_closed
       rect:
@@ -170,7 +319,15 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: dinosaur__step_left
       rect:
@@ -183,7 +340,15 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: dinosaur__step_right
       rect:
@@ -196,7 +361,15 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: dinosaur__eyes_wide
       rect:
@@ -209,7 +382,15 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: dinosaur__ducking_step_right
       rect:
@@ -222,7 +403,15 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: dinosaur__ducking_step_left
       rect:
@@ -235,7 +424,15 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: cactus__big
       rect:
@@ -248,7 +445,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.039516527}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: cactus__big_two
       rect:
@@ -261,7 +466,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.03951653}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: cactus__big_four
       rect:
@@ -274,7 +487,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.03951653}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: cactus__small
       rect:
@@ -287,7 +508,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: cactus__small_two
       rect:
@@ -300,7 +529,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: cactus__small_three
       rect:
@@ -313,7 +550,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: terrain
       rect:
@@ -326,7 +571,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.6947328}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: moon__5
       rect:
@@ -339,7 +592,15 @@ TextureImporter:
       pivot: {x: 1, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: moon__4
       rect:
@@ -352,7 +613,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: moon__2
       rect:
@@ -365,7 +634,15 @@ TextureImporter:
       pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: moon__1
       rect:
@@ -378,7 +655,15 @@ TextureImporter:
       pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: moon__3
       rect:
@@ -391,7 +676,15 @@ TextureImporter:
       pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: moon__6
       rect:
@@ -404,7 +697,15 @@ TextureImporter:
       pivot: {x: 1, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: moon__7
       rect:
@@ -417,7 +718,15 @@ TextureImporter:
       pivot: {x: 1, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: star__2
       rect:
@@ -430,7 +739,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: star__3
       rect:
@@ -443,7 +760,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: star__1
       rect:
@@ -456,7 +781,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: HI
       rect:
@@ -469,7 +802,15 @@ TextureImporter:
       pivot: {x: 1, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Game Over
       rect:
@@ -482,7 +823,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: number__0
       rect:
@@ -495,7 +844,15 @@ TextureImporter:
       pivot: {x: 1, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: number__1
       rect:
@@ -508,7 +865,15 @@ TextureImporter:
       pivot: {x: 1, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: number__2
       rect:
@@ -521,7 +886,15 @@ TextureImporter:
       pivot: {x: 1, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: number__3
       rect:
@@ -534,7 +907,15 @@ TextureImporter:
       pivot: {x: 1, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: number__4
       rect:
@@ -547,7 +928,15 @@ TextureImporter:
       pivot: {x: 1, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: number__5
       rect:
@@ -560,7 +949,15 @@ TextureImporter:
       pivot: {x: 1, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: number__6
       rect:
@@ -573,7 +970,15 @@ TextureImporter:
       pivot: {x: 1, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: number__7
       rect:
@@ -586,7 +991,15 @@ TextureImporter:
       pivot: {x: 1, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: number__8
       rect:
@@ -599,7 +1012,15 @@ TextureImporter:
       pivot: {x: 1, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: number__9
       rect:
@@ -612,9 +1033,69 @@ TextureImporter:
       pivot: {x: 1, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dinosaur__ducking_step_right: 21300018
+      cactus__small: 21300028
+      dinosaur__step_right: 21300014
+      dinosaur__ducking_step_left: 21300020
+      number__3: 21300068
+      moon__6: 21300048
+      moon__2: 21300040
+      HI: 21300058
+      number__4: 21300070
+      restart: 21300000
+      dinosaur__eyes_wide: 21300016
+      cactus__small_three: 21300032
+      cactus__small_two: 21300030
+      cloud: 21300002
+      number__5: 21300072
+      dinosaur__eyes_closed: 21300010
+      terrain: 21300034
+      dinosaur__step_left: 21300012
+      moon__7: 21300050
+      Game Over: 21300060
+      number__6: 21300074
+      number__8: 21300078
+      number__7: 21300076
+      cactus__big_two: 21300024
+      bird__flap_down: 21300004
+      cactus__big: 21300022
+      star__3: 21300054
+      moon__5: 21300036
+      bird__flap_up: 21300006
+      number__9: 21300080
+      moon__3: 21300046
+      number__0: 21300062
+      dinosaur: 21300008
+      moon__4: 21300038
+      star__1: 21300056
+      number__1: 21300064
+      moon__1: 21300044
+      star__2: 21300052
+      cactus__big_four: 21300026
+      number__2: 21300066
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
